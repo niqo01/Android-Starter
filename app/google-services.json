@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387537174233",
+    "firebase_url": "https://compete-38c87.firebaseio.com",
+    "project_id": "compete-38c87",
+    "storage_bucket": "compete-38c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387537174233:android:7ac958379a161aa8",
+        "android_client_info": {
+          "package_name": "com.sweetmonkeys.compete.compete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387537174233-k4io9vavfp02mveosbdq2q8jti4tbf62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sweetmonkeys.compete.compete",
+            "certificate_hash": "6DCB37BEDD5CB87F545709E089C2C7EE00858D1C"
+          }
+        },
+        {
+          "client_id": "387537174233-v2t2l71v21lod1746u54olquaon2gnu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgoSU1Novj91RO8GpbDsRurptHQ-rIxWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387537174233-v2t2l71v21lod1746u54olquaon2gnu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
